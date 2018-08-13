@@ -17,6 +17,7 @@ namespace TIM_2015_Test.Configurations
             Console.WriteLine("Code of branch 2.2");
             Console.WriteLine("Code of branch 2.3");
             Console.WriteLine("Code of branch 2.4");
+            Console.WriteLine("Code branch 3.1");
         }
     }
 }
