@@ -11,6 +11,7 @@ namespace TIM_2015_Test.Configurations
         {
             Console.WriteLine("Test Method 3");
             Console.WriteLine("Branch 1.1");
+            Console.WriteLine("Branch 2.1");
         }
     }
 }
